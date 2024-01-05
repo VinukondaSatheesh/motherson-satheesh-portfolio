@@ -1,0 +1,8 @@
+.backGround-image {
+  background-image: url("https://res.cloudinary.com/dojn2omox/image/upload/v1704401475/attachment_vorjfu.png");
+  background-size: cover;
+}
+
+.App {
+  background-color: #f9faff;
+}
